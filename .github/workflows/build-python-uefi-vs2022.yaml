@@ -2,7 +2,7 @@
 #
 # Copyright (c) 2023 - 2024, Intel Corporation. All rights reserved.
 # SPDX-License-Identifier: BSD-2-Clause-Patent
-#
+# go
 
 name: Build Python Interpreter for UEFI using VS2022
 
